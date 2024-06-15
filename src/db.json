@@ -1,0 +1,163 @@
+{
+    "cardData":[{
+        "id":1,
+        "title":"FreshSpecs Air",
+        "text":"Size:Medium,Air Essential",
+        "Price":1800,
+        "image":"glass1.webp",
+        "qty":1
+    },
+    {
+        "id":2,
+        "title":"FreshSpecs Hustlr",
+        "text":"Size:Medium,Ocean Blue",
+        "Price":2000,
+        "image":"glass2.webp",
+        "qty":1
+    },
+    {
+        "id":3,
+        "title":"FreshSpecs Air",
+        "text":"Size:Medium,Flamingo",
+        "Price":1800,
+        "image":"glass3.webp",
+        "qty":1
+    },
+    {   
+        "id":4,
+        "title":"Vincet Chase",
+        "text":"Size:Medium,Classic Acetate",
+        "Price":2200,
+        "image":"glass4.webp",
+        "qty":1
+    },
+    {
+        "id":5,
+        "title":"FreshSpecs Hustlr",
+        "text":"Size:Medium,Navy",
+        "Price":2000,
+        "image":"glass5.webp",
+        "qty":1
+    },
+    {   
+        "id":6,
+        "title":"FreshSpecs Hustlr",
+        "text":"Size:Medium,Hustlr Ace Olive",
+        "Price":1700,
+        "image":"glass6.webp",
+        "qty":1
+    },
+    {
+        "id":7,
+        "title":"FreshSpecs Hustlr",
+        "text":"Size:Medium,Hustlr Ace Denim",
+        "Price":2000,
+        "image":"glass7.webp",
+        "qty":1
+    },
+    {
+        "id":8,
+        "title":"Vincet Chase",
+        "text":"Size:Medium,Sleek Steel",
+        "Price":2200,
+        "image":"glass8.webp",
+        "qty":1
+    },
+    {
+        "id":9,
+        "title":"FreshSpecs AIr",
+        "text":"Size:Medium,Air Fusion",
+        "Price":2000,
+        "image":"glass9.webp",
+        "qty":1
+    },
+    {
+        "id":10,
+        "title":"FreshSpecs Hustlr",
+        "text":"Size:Medium,Amber",
+        "Price":2000,
+        "image":"glass11.webp",
+        "qty":1
+    },
+    {
+        "id":11,
+        "title":"FreshSpecs UV Sunglasses",
+        "text":"Size:Medium,Brown+Mercury",
+        "Price":1800,
+        "image":"glass12.webp",
+        "qty":1
+    },
+    {
+        "id":12,
+        "title":"FreshSpecs Party Sunglasses",
+        "text":"Size:Medium,Multi",
+        "Price":2400,
+        "image":"glass13.webp",
+        "qty":1
+    },
+    {
+        "id":13,
+        "title":"FreshSpecs UV Sunglasses",
+        "text":"Size:Medium,Light brown",
+        "Price":2000,
+        "image":"glass14.webp",
+        "qty":1
+    },
+    {
+        "id":14,
+        "title":"FreshSpecs Gaga Hustlr ",
+        "text":"Size:Medium,Pink",
+        "Price":1800,
+        "image":"glass15.webp",
+        "qty":1
+    },
+    {
+        "id":15,
+        "title":"FreshSpecs Sky",
+        "text":"Size:Medium,BLue",
+        "Price":1500,
+        "image":"glass16.webp",
+        "qty":1
+    },
+    {
+        "id":16,
+        "title":"FreshSpecs Metal",
+        "text":"Size:Medium,Grey",
+        "Price":1500,
+        "image":"glass17.webp",
+        "qty":1
+    },
+    {
+        "id":17,
+        "title":"FreshSpecs Woody",
+        "text":"Size:Medium,Green",
+        "Price":999,
+        "image":"glass18.webp",
+        "qty":1
+    },
+    {
+        "id":18,
+        "title":"FreshSpecs Classy",
+        "text":"Size:Medium,Golden Strip with black glass",
+        "Price":1800,
+        "image":"glass19.webp",
+        "qty":1
+    },
+    {
+        "id":19,
+        "title":"FreshSpecs Classy",
+        "text":"Size:Medium,Silver Strip with brown glass",
+        "Price":1500,
+        "image":"glass20.webp",
+        "qty":1
+    },
+    {
+        "id":20,
+        "title":"FreshSpecs Round",
+        "text":"Size:Medium,Blue",
+        "Price":2000,
+        "image":"glass22.webp",
+        "qty":1
+    }
+]
+}
